@@ -1,0 +1,39 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.imgEdit {
+  height: 80px;
+  width: 80px;
+}
+
+.headEdit {
+  color: black;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+
+.paraEdit {
+  color: black;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.profileCont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.blogListEdit1 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
